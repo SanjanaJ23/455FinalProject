@@ -19,3 +19,5 @@ I was also able to explore using PyTorch for Computer Vision applications.
 It was a bit of a challenge to get familiar with the toolset and debug the issues I encountered,
 I was unfortunately not able to achieve a high accuracy with any of these models, so I would like to experiment more with hyperparameter tuning and transfer learning to improve my accuracy. I would also like to try out image augmentation to prevent overfitting to the ResNet model.
 I would like to incorporate other pretrained models available in PyTorch to compare their performance against these models. It would also be interesting to explore ways to make the training process more efficient.
+## Video
+https://youtu.be/DJZTdgomSa4
