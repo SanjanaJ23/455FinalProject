@@ -1,5 +1,5 @@
 # 455 Final Project
-Testing
+
 ## The Problem
 I was interested in applying what I have learnt this quarter to the bird classification challenge.
 We were given a dataset of images of different birds and challenged to develop a model that would be able to classify them by their species.
